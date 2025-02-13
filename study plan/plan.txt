@@ -1,0 +1,8 @@
+| Week | Focus                          | Tasks                                           |
+|------|--------------------------------|-------------------------------------------------|
+| 1    | Arrays and Strings             | Sliding Window, Two Pointers; Solve 20 problems.|
+| 2    | Binary Search, Sorting, Divide and Conquer | Solve 15 problems.                            |
+| 3    | Linked Lists and Stacks/Queues | Fast & Slow Pointers, Monotonic Stack; Solve 15 problems. |
+| 4    | Dynamic Programming and Recursion | Solve 15 problems (LCS, Knapsack, etc.).       |
+| 5    | Graph Algorithms               | BFS, DFS, Union-Find; Solve 15 problems.        |
+| 6    | Mock Interviews                | Combine patterns, simulate interviews, review and refine solutions. |
